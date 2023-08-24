@@ -2,7 +2,7 @@
 
 The "Splash App" project is an innovative endeavor focused on elevating user experiences by incorporating visually engaging splash screens into mobile applications.
 
-![SS_Splash](https://github.com/AndroidRider/Splash-App/assets/140700822/a3b9837c-91c6-4240-aef4-4c0e98550e07)
+
 
 
 ## Contributing
@@ -51,6 +51,8 @@ This repository is still under development and I will continue to add more featu
 
 
 <p>
+  <img src="https://user-images.githubusercontent.com/140700822/262857115-a3b9837c-91c6-4240-aef4-4c0e98550e07.jpg" alt="feed example" width = "200" height = "400" >
+  
 <img src="https://user-images.githubusercontent.com/35039342/55468409-ef956b80-5620-11e9-9906-7e8ca89b4b49.png" alt="feed example" width = "400" >
 <img src="https://user-images.githubusercontent.com/35039342/55468436-fa500080-5620-11e9-8475-28f291c4b1f6.png" alt="upload photo example"width = "400" >
 <img src="https://user-images.githubusercontent.com/35039342/55468489-1a7fbf80-5621-11e9-81d5-66d0535e0cde.png" alt="go to a profile from feed" width = "400">
