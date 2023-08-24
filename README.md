@@ -15,8 +15,6 @@ Please make sure to update tests as appropriate.
 
 Android Rider
 
-
-
 # Instagram_clone
 
 Instagram Clone (Both frontend and backend) created with Flutter and Firebase.
