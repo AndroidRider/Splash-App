@@ -18,8 +18,6 @@ Please make sure to update tests as appropriate.
 <a href="https://www.linkedin.com/in/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262982049-13872565-f98b-4f04-9b8c-b876e170e002.png" width="50"></a>
 <a href="https://github.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982027-567441b5-aa5b-42b3-a20a-b3174e32bd56.png" width="50"></a>
 
-
-
 ## License
 
     Copyright (c) 2023 Android Rider
